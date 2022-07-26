@@ -1,0 +1,26 @@
+form{
+	margin-top: 10px;
+	margin-left: 33%;
+	border-style: solid;
+	width: 30em;
+	padding-left: 10px;
+	background-color: ;
+}
+
+body{
+	background-color: gray;
+}
+
+.submit{
+	padding-left: 10px;
+	margin: 10px;
+	margin-left: 30%;
+}
+
+.class{
+	height: 15em;
+}
+
+nav{
+	margin-top: 0;
+}
